@@ -1,1 +1,1 @@
-# exercise_goit_3
+# GOIT ZADANIE 3
